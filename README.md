@@ -37,5 +37,5 @@ Feel free to reach out to me if you have any questions about my projects or if y
 
 - Email: [stuartray32@gmail.com]
 - LinkedIn: [(https://www.linkedin.com/in/stuart-ray-13aa1721a/)]
-- Twitter: [Your Twitter handle (optional)]
+- Twitter: [(https://twitter.com/StuartRay17)]
 - Website: [Your personal website URL (optional)]
