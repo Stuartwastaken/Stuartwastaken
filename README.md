@@ -20,16 +20,8 @@ Built the IoS app Twitter
 - Technologies used: Google Firestore for the backend, Swift in XCode IDE for the front end
 - Key features: Full login system, with working authentication. Tweets, profile images, liked tweets all functional. 
 - Challenges overcome: Not using storyboard for XCode but rather View - ViewModel design pattern
-- Lessons learned: 
+- Lessons learned: Learned about how to use Google Firebase, update packages in XCode, design for efficiency
 
-## Project 3: Uber app clone
-
-Built the Ios app Uber
-
-- Technologies used: List the technologies, frameworks, and programming languages used in the project.
-- Key features: List some of the key features of the project.
-- Challenges overcome: Discuss some of the challenges you faced while working on the project and how you overcame them.
-- Lessons learned: Discuss what you learned from working on the project, both in terms of technical skills and personal development.
 
 ## Contact
 
