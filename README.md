@@ -22,7 +22,7 @@ Built the IOS app Twitter
 - Challenges overcome: Not using storyboard for XCode but rather View - ViewModel design pattern
 - Lessons learned: Learned about how to use Google Firebase, update packages in XCode, design for efficiency
 
-## :two_hearts: Project 3: WordPair Generator
+## :speech_balloon: Project 3: WordPair Generator
 
 Built a smooth cross platform app
 
