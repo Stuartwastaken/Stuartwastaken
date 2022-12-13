@@ -6,21 +6,35 @@ On this page, you will find a collection of some of my most notable projects and
 
 ## [🎮 Project 1: Anagrams game](https://github.com/Stuartwastaken/Anagrams)
 
-Built the IOS game pigeon game - anagrams; using Java Swing API.
+- Technologies used: 
+  - Java
+  - Java Swing API
+- Key features: 
+  - Full scrabble dictionary
+  - High score gets saved
+  - User-friendly interface
+- Challenges overcome: 
+  - Developing the project using the Model-View-Controller design pattern
+- Lessons learned: 
+  - Clean code practices
+  - Passing information efficiently across multiple files
 
-- Technologies used: Java, Java SWING
-- Key features: Full scrabble dictionary. High score gets saved. User friendly interface. 
-- Challenges overcome: Developing the project under the Model - View - Controller design pattern
-- Lessons learned: Learned many valuable clean code practices. How to pass information efficiently across over 30 files.
 
 ## [📱 Project 2: Twitter app clone](https://github.com/Stuartwastaken/Twitter)
 
-Built the IOS app Twitter
+- Technologies used: 
+  - Google Firestore (backend)
+  - Swift in XCode IDE (frontend)
+- Key features: 
+  - Full login system with working authentication
+  - Tweets, profile images, liked tweets, all functional
+- Challenges overcome: 
+  - Using View-ViewModel design pattern instead of storyboard for XCode
+- Lessons learned: 
+  - Working with Google Firebase
+  - Updating packages in XCode
+  - Designing for efficiency
 
-- Technologies used: Google Firestore for the backend, Swift in XCode IDE for the front end
-- Key features: Full login system, with working authentication. Tweets, profile images, liked tweets all functional. 
-- Challenges overcome: Not using storyboard for XCode but rather View - ViewModel design pattern
-- Lessons learned: Learned about how to use Google Firebase, update packages in XCode, design for efficiency
 
 
 ## [:speech_balloon: Project 3: WordPair Generator](https://github.com/Stuartwastaken/WordPairGenerator)
