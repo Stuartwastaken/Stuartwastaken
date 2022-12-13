@@ -4,7 +4,7 @@ Welcome to my undergraduate computer science portfolio! 🎓 I am an undergradua
 
 On this page, you will find a collection of some of my most notable projects and assignments from my time as a computer science student. These projects showcase my skills and abilities as a programmer, and demonstrate my understanding of a variety of computer science concepts.
 
-##[🎮 Project 1: Anagrams game](https://github.com/Stuartwastaken/Anagrams)
+## [🎮 Project 1: Anagrams game](https://github.com/Stuartwastaken/Anagrams)
 
 Built the IOS game pigeon game - anagrams; using Java Swing API.
 
@@ -13,7 +13,7 @@ Built the IOS game pigeon game - anagrams; using Java Swing API.
 - Challenges overcome: Developing the project under the Model - View - Controller design pattern
 - Lessons learned: Learned many valuable clean code practices. How to pass information efficiently across over 30 files.
 
-##[📱 Project 2: Twitter app clone](https://github.com/Stuartwastaken/Twitter)
+## [📱 Project 2: Twitter app clone](https://github.com/Stuartwastaken/Twitter)
 
 Built the IOS app Twitter
 
