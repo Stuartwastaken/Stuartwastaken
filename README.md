@@ -22,14 +22,21 @@ Built the IOS app Twitter
 - Challenges overcome: Not using storyboard for XCode but rather View - ViewModel design pattern
 - Lessons learned: Learned about how to use Google Firebase, update packages in XCode, design for efficiency
 
-## :speech_balloon: Project 3: WordPair Generator
 
-Built a smooth cross platform app
+## [:speech_balloon: Project 3: WordPair Generator](https://github.com/Stuartwastaken/WordPairGenerator)
 
-- Technologies used: Google Firestore for the backend, Swift in XCode IDE for the front end
-- Key features: Full login system, with working authentication. Tweets, profile images, liked tweets all functional. 
-- Challenges overcome: Not using storyboard for XCode but rather View - ViewModel design pattern
-- Lessons learned: Learned about how to use Google Firebase, update packages in XCode, design for efficiency
+- Technologies used: Flutter, Dart
+- Key features: 
+  - Generate compound words as the user scrolls through a list
+  - Save selected words to a separate screen
+  - "Like" individual words
+- Challenges overcome: 
+  - Modifying positional requirements of various widgets
+  - Learning Dart and understanding its syntax
+- Lessons learned:
+  - Setting app state
+  - Saving word pairs
+  - Using builder widgets, Scaffolds, and Icons
 
 ## 📧 Contact
 
