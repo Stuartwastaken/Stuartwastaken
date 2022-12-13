@@ -22,6 +22,15 @@ Built the IOS app Twitter
 - Challenges overcome: Not using storyboard for XCode but rather View - ViewModel design pattern
 - Lessons learned: Learned about how to use Google Firebase, update packages in XCode, design for efficiency
 
+## :two_hearts: Project 3: WordPair Generator
+
+Built a smooth cross platform app
+
+- Technologies used: Google Firestore for the backend, Swift in XCode IDE for the front end
+- Key features: Full login system, with working authentication. Tweets, profile images, liked tweets all functional. 
+- Challenges overcome: Not using storyboard for XCode but rather View - ViewModel design pattern
+- Lessons learned: Learned about how to use Google Firebase, update packages in XCode, design for efficiency
+
 ## 📧 Contact
 
 Feel free to reach out to me if you have any questions about my projects or if you would like to discuss opportunities for collaboration or employment.
@@ -29,4 +38,3 @@ Feel free to reach out to me if you have any questions about my projects or if y
 - Email: stuartray32@gmail.com
 - LinkedIn: https://www.linkedin.com/in/stuart-ray-13aa1721a/
 - Twitter: https://twitter.com/StuartRay17
-- Website: https://stuartwastaken.github.io/Stuartwastaken/
