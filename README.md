@@ -39,7 +39,9 @@ On this page, you will find a collection of some of my most notable projects and
 
 ## [:speech_balloon: Project 3: WordPair Generator](https://github.com/Stuartwastaken/WordPairGenerator)
 
-- Technologies used: Flutter, Dart
+- Technologies used: 
+  - Flutter
+  - Dart
 - Key features: 
   - Generate compound words as the user scrolls through a list
   - Save selected words to a separate screen
