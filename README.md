@@ -15,6 +15,7 @@ On this page, you will find a collection of some of my most notable projects and
   - User-friendly interface
 - Challenges overcome: 
   - Developing the project using the Model-View-Controller design pattern
+  - Learning Java
 - Lessons learned: 
   - Clean code practices
   - Passing information efficiently across multiple files
