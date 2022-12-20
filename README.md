@@ -20,16 +20,21 @@ On this page, you will find a collection of some of my most notable projects and
   - Passing information efficiently across multiple files
 
 
-## [📱 Project 2: Twitter app clone](https://github.com/Stuartwastaken/Twitter)
+## [📱 Project 2: Twitter app](https://github.com/Stuartwastaken/Twitter)
 
 - Technologies used: 
   - Google Firestore (backend)
   - Swift in XCode IDE (frontend)
-- Key features: 
+- Key features:
+  - Entire Twitter app built from scratch
   - Full login system with working authentication
   - Tweets, profile images, liked tweets, all functional
 - Challenges overcome: 
   - Using View-ViewModel design pattern instead of storyboard for XCode
+  - Understanding Firebase Auth
+  - Dependency errors
+  - Screen design malfunctions
+  - Extracting data and storing data in Firebase
 - Lessons learned: 
   - Working with Google Firebase
   - Updating packages in XCode
