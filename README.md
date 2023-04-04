@@ -2,7 +2,7 @@
 
 Welcome to my undergraduate computer science portfolio! 🎓 I am an undergraduate student studying computer science at Saint Louis University.
 
-On this page, you will find a collection of some of my most notable projects and assignments from my time as a computer science student. These projects showcase my skills and abilities as a programmer, and demonstrate my understanding of a variety of computer science concepts.
+I'm also the Founder of Mesh - Meshapp.us
 
 ## [🎮 Project 1: Anagrams game](https://github.com/Stuartwastaken/Anagrams)
 
