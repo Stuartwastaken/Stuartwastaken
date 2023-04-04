@@ -2,7 +2,7 @@
 
 Welcome to my undergraduate computer science portfolio! 🎓 I am an undergraduate student studying computer science at Saint Louis University.
 
-I'm also the Founder of Mesh - Meshapp.us
+I'm also the Founder of [Mesh](https://meshapp.us)
 
 ## [🎮 Project 1: Anagrams game](https://github.com/Stuartwastaken/Anagrams)
 
