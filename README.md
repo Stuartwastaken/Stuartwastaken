@@ -1,69 +1,22 @@
-# 💻 Stuart Ray's Portfolio
+# 🎓 Stuart Ray's Computer Science Portfolio
 
-Welcome to my undergraduate computer science portfolio! 🎓 I am an undergraduate student studying computer science at Saint Louis University.
+Welcome to my undergraduate computer science portfolio! I'm currently pursuing my degree at Saint Louis University, where I'm specializing in networking and app development.
 
-I'm also the Founder of [Mesh](https://meshapp.us)
+## 🚀 Projects & Experience
 
-## [🎮 Project 1: Anagrams game](https://github.com/Stuartwastaken/Anagrams)
+### [Mesh](https://meshapp.us) - Founder
+I'm the founder of Mesh, a platform that aims to redefine the way we communicate and connect.
 
-- Technologies used: 
-  - Java
-  - Java Swing API
-- Key features: 
-  - Full scrabble dictionary
-  - High score gets saved
-  - User-friendly interface
-- Challenges overcome: 
-  - Developing the project using the Model-View-Controller design pattern
-  - Learning Java
-- Lessons learned: 
-  - Clean code practices
-  - Passing information efficiently across multiple files
+### 📚 Research
+My primary focus is on network and application layer research. Here's a highlight of my work:
 
+- [Simultaneous Data Dissemination Among WiFi and ZigBee Devices](https://ieeexplore.ieee.org/document/10106093/authors#authors)
 
-## [📱 Project 2: Twitter app](https://github.com/Stuartwastaken/Twitter)
+### 📱 Open Source SLU - Mobile App Development
+I'm actively involved in Open Source SLU, where we're developing a mobile app using React Native and TypeScript.
 
-- Technologies used: 
-  - Google Firestore (backend)
-  - Swift in XCode IDE (frontend)
-- Key features:
-  - Entire Twitter app built from scratch
-  - Full login system with working authentication
-  - Tweets, profile images, liked tweets, all functional
-- Challenges overcome: 
-  - Using View-ViewModel design pattern instead of storyboard for XCode
-  - Understanding Firebase Auth
-  - Dependency errors
-  - Screen design malfunctions
-  - Extracting data and storing data in Firebase
-- Lessons learned: 
-  - Working with Google Firebase
-  - Updating packages in XCode
-  - Designing for efficiency
+## 🌐 Connect with Me
 
-
-
-## [:speech_balloon: Project 3: WordPair Generator](https://github.com/Stuartwastaken/WordPairGenerator)
-
-- Technologies used: 
-  - Flutter
-  - Dart
-- Key features: 
-  - Generate compound words as the user scrolls through a list
-  - Save selected words to a separate screen
-  - "Like" individual words
-- Challenges overcome: 
-  - Modifying positional requirements of various widgets
-  - Learning Dart and understanding its syntax
-- Lessons learned:
-  - Setting app state
-  - Saving word pairs
-  - Using builder widgets, Scaffolds, and Icons
-
-## 📧 Contact
-
-Feel free to reach out to me if you have any questions about my projects or if you would like to discuss opportunities for collaboration or employment.
-
-- Email: stuartray32@gmail.com
-- LinkedIn: https://www.linkedin.com/in/stuart-ray-13aa1721a/
-- Twitter: https://twitter.com/StuartRay17
+- 📧 Email: [stuartray32@gmail.com](mailto:stuartray32@gmail.com)
+- 💼 LinkedIn: [Stuart Ray](https://www.linkedin.com/in/stuart-ray-13aa1721a/)
+- 🐦 Twitter: [@StuartRay17](https://twitter.com/StuartRay17)
