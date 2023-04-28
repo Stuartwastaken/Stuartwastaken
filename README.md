@@ -11,6 +11,7 @@ I'm the founder of Mesh, a platform that aims to redefine the way we communicate
 My primary focus is on network and application layer research. Here's a highlight of my work:
 
 - [Simultaneous Data Dissemination Among WiFi and ZigBee Devices](https://ieeexplore.ieee.org/document/10106093/authors#authors)
+- [IoT Sentinel - Delta Correlation Unveiling Intruders] [ Accepted ]
 
 ### 📱 Open Source SLU - Mobile App Development
 I'm actively involved in Open Source SLU, where we're developing a mobile app using React Native and TypeScript.
