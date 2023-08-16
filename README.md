@@ -15,9 +15,3 @@ My primary focus is on network and application layer research. Here's a highligh
 
 ### 📱 Open Source SLU - Mobile App Development
 I'm actively involved in Open Source SLU, where we're developing a mobile app using React Native and TypeScript.
-
-## 🌐 Connect with Me
-
-- 📧 Email: [stuartray32@gmail.com](mailto:stuartray32@gmail.com)
-- 💼 LinkedIn: [Stuart Ray](https://www.linkedin.com/in/stuart-ray-13aa1721a/)
-- 🐦 Twitter: [@StuartRay17](https://twitter.com/StuartRay17)
