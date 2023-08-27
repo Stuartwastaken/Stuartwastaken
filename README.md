@@ -14,4 +14,4 @@ My primary focus is on network and application layer research. Here's a highligh
 - [IoT Sentinel - Delta Correlation Unveiling Intruders] [ Accepted ]
 
 ### 📱 Open Source SLU - Mobile App Development
-I'm actively involved in Open Source SLU, where we're developing a mobile app using React Native and TypeScript.
+I'm actively involved in Open Source SLU, where we have developed a mobile app using React Native and TypeScript.
