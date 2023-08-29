@@ -9,13 +9,9 @@
 - 📚 Co-authored and published groundbreaking papers that enhanced the state-of-the-art in IoT security.
 - 🔒 Developed the 'Waves' network protocol, reducing packet delivery delay by 29 times.
 
-### Teaching Assistant at Saint Louis University
-- 📘 Graded and provided feedback on C++ assignments related to complex data structures.
-- 🎓 Clarified concepts in Algorithms, helping students grasp sorting, dynamic programming, and graph theory.
-
 ## 🌟 Projects
 ### [Mesh](https://meshapp.us) - Founder
-- 🤝 Designed and implemented Mesh, a real-time social connectivity app for college students, handling over 100k lines of code in Dart and Flutter.
+- 🤝 Designed and implemented [Mesh](https://mesh-local.com), a real-time social connectivity app for college students, handling over 100k lines of code in Dart and Flutter.
 - 🌐 Built [16 unique cloud functions](https://github.com/Stuartwastaken/Mesh_CloudFunctions) in TypeScript for features like geo-based recommendations and lobby management.
 - 🚀 Secured $2000 in funding through startup competitions.
 
