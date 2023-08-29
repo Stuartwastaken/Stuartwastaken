@@ -1,6 +1,5 @@
-# 🎓 Stuart Ray
+# 🛠 Experience
 
-## 🛠 Experience
 ### [Lived Religion Mobile App Development](https://religioninplace.org/blog/)
 - 📱 Developed a [multi-platform app](https://github.com/oss-slu/lrda_mobile) with React Native, TypeScript, and AWS, boosting user engagement by 400%, enhancing load times by 25%, and maintaining 99.99% uptime.
 - 🛠 Enhanced code quality through object-oriented design and agile development, reducing latency by 40%.
