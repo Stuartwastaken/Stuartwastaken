@@ -6,7 +6,7 @@
 
 ### [Research at Saint Louis University](https://ieeexplore.ieee.org/document/10106093/authors#authors)
 - 🚗 Currently working on SLAM (Simultaneous Localization and Mapping) reliability algorithms designed to function under severe weather conditions like rain, fog, and snow.
-- 📚 Developed a machine learning intruder detection model for IoT Sentinel with 97% location accuracy and 99% malicious intruder detection accuracy.
+- 📚 Co-Developed a machine learning intruder detection model for IoT Sentinel with 97% location accuracy and 99% malicious intruder detection accuracy.
 - 🔒 Developed the 'Waves' network protocol, reducing packet delivery delay by 29 times.
 
 ### [Mesh](https://mesh-local.com) - Founder
