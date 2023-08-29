@@ -1,10 +1,4 @@
-# 🎓 Stuart Ray: Crafting Experiences Through Code
-
-Hello! I'm Stuart Ray, an undergraduate at Saint Louis University, specializing in network systems and app development. I'm passionate about creating meaningful user experiences and writing clean, efficient code.
-
-## 👨‍💻 Technical Skills
-- **Programming Languages & Tools**: Typescript, Python, C/C++, Java, Dart, SQL, JavaScript, HTML/CSS, Swift, Git
-- **Frameworks and Libraries**: React, React Native, Node.js, Flutter, Firebase, Google Cloud Storage, AWS (S3, DynamoDB, EC2)
+# 🎓 Stuart Ray
 
 ## 🛠 Experience
 ### [Lived Religion Mobile App Development](https://religioninplace.org/blog/)
