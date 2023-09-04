@@ -85,3 +85,43 @@ body, html {
     color: navy;
     text-decoration: underline;
 }
+
+.timeline {
+    position: relative;
+    margin: 50px auto;
+    max-width: 800px;
+}
+
+.timeline-item {
+    position: relative;
+    margin: 20px 0;
+}
+
+.timeline-icon {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    background: #555;
+    border-radius: 50%;
+    transform: translate(-50%, 0);
+}
+
+.timeline-content {
+    padding: 0 20px;
+    border-left: 2px solid #555;
+    margin-left: 30px;
+    position: relative;
+}
+
+.timeline-content h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 24px;
+}
+
+.timeline-content p {
+    margin: 10px 0;
+    padding: 0;
+}
