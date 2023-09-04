@@ -1,4 +1,4 @@
-## You can visit my [website](https://stuartwastaken.github.io/Stuartwastaken/)
+## You can visit my [website](https://www.stuartmray.com/)
 
 # 🛠 Experience
 
