@@ -108,7 +108,7 @@ html {
 
 .timeline-year {
   position: absolute;
-  left: -10px;
+  left: 10px;
   top: 55px;
   font-size: 16px;
   color: grey;
