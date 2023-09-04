@@ -1,3 +1,5 @@
+## You can visit my [website](https://stuartwastaken.github.io/Stuartwastaken/)
+
 # 🛠 Experience
 
 ### [Lived Religion Mobile App Development](https://religioninplace.org/blog/)
@@ -9,7 +11,7 @@
 - 📚 Constructed a machine learning intruder detection model for IoT Sentinel with 97% location accuracy and 99% malicious intruder detection accuracy.
 - 🔒 Developed the 'Waves' network protocol, reducing packet delivery delay by 29 times.
 
-### [Mesh](https://mesh-local.com) - Founder
+### [Mesh](https://mesh-local.com) - Co-Founder, CEO
 - 🤝 Designed and implemented Mesh, a real-time social connectivity app for college students, handling over 100k lines of code in Dart and Flutter.
 - 🌐 Engineered [16 unique cloud functions](https://github.com/Stuartwastaken/Mesh_CloudFunctions) in TypeScript for features like geo-based recommendations and lobby management.
 - 🚀 Secured $2000 in funding through startup competitions.
