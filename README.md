@@ -1,6 +1,10 @@
 ## You can visit my [website](https://www.stuartmray.com/)
 
 # 🛠 Experience
+### [Mesh](https://apps.apple.com/us/app/mesh-four-people-together/id6446823257) - Co-Founder, CEO
+- 🤝 Designed and implemented Mesh, a real-time social connectivity app for people moving to a new city that want to explore local places.
+- 🌐 Engineered [16 unique cloud functions](https://github.com/Stuartwastaken/Mesh_CloudFunctions) in TypeScript for features like geo-based recommendations and lobby management.
+- 🚀 Secured $2000 in funding through startup competitions.
 
 ### [Lived Religion Mobile App Development](https://religioninplace.org/blog/)
 - 📱 Built a [multi-platform app](https://github.com/oss-slu/lrda_mobile)
@@ -14,8 +18,5 @@
 The [SoundController repo](https://github.com/Stuartwastaken/SoundController) is available for further reference.
 
 
-### [Mesh](https://mesh-local.com) - Co-Founder, CEO
-- 🤝 Designed and implemented Mesh, a real-time social connectivity app for people moving to a new city that want to explore local places.
-- 🌐 Engineered [16 unique cloud functions](https://github.com/Stuartwastaken/Mesh_CloudFunctions) in TypeScript for features like geo-based recommendations and lobby management.
-- 🚀 Secured $2000 in funding through startup competitions.
+
 
