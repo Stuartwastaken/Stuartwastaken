@@ -1,4 +1,5 @@
-## You can visit my [website](https://www.stuartmray.com/)
+## You can visit my
+[website](https://www.stuartmray.com/)
 
 # 🛠 Experience
 ### [Mesh](https://apps.apple.com/us/app/mesh-four-people-together/id6446823257) - Co-Founder, CEO
