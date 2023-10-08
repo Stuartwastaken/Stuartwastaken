@@ -15,7 +15,7 @@
 - 🛡️ Constructed a machine learning intruder detection model for IoT Sentinel with 97% location accuracy and 99% malicious intruder detection accuracy.
 - ⚡ Developed the '[Waves](https://ieeexplore.ieee.org/document/10106093/authors#authors)' network protocol, reducing packet delivery delay by 29 times.
 
-The [SoundController repo](https://github.com/Stuartwastaken/SoundController) is available for further reference.
+The [SoundController repo](https://github.com/Stuartwastaken/SoundController/tree/main/underwater/underwater) is available for further reference.
 
 
 
