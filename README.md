@@ -6,7 +6,7 @@
 - 🌐 Engineered [16 unique cloud functions](https://github.com/Stuartwastaken/Mesh_CloudFunctions/tree/main/src/controllers) in TypeScript for features like geo-based recommendations and lobby management.
 
 ### [Lived Religion Mobile App Development](https://religioninplace.org/blog/) 
-- 📱 Built a [multi-platform app](https://github.com/oss-slu/lrda_mobile)
+- 📱 Built a [multi-platform app](https://wheresreligion.netlify.app/lib/pages/map)
 - 🛠 Architected an IOS and Android mobile app using React Native, TypeScript, and a Java-based backend with RESTful APIs. Delivering a viable product within 6 months that attracted over $1 million in venture capital.
 
 ### Research at Saint Louis University
