@@ -7,7 +7,7 @@
 
 ### [Lived Religion Mobile App Development](https://religioninplace.org/blog/) 
 - 📱 Built a [multi-platform app](https://wheresreligion.netlify.app/lib/pages/map)
-- 🛠 Architected an IOS and Android mobile app using React Native, TypeScript, and a Java-based backend with RESTful APIs. Delivering a viable product within 6 months that attracted over $1 million in venture capital.
+- 🛠 Architected an IOS and Android mobile app using React Native, TypeScript, and a Java-based backend with RESTful APIs. Delivering a viable product within 6 months that attracted over $2.4 million in venture capital.
 
 ### Research at Saint Louis University
 - 🌊 Currently working on the development of a LoRa-based underwater communication system with Chirp Spread Spectrum (CSS) and Spreading Factor (SF) optimizations
