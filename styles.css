@@ -1,12 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
-body,
+body, html{
+  margin: 0;
+  background-color: #f2f2f2;
+}
+
 html {
   /* height: 100%; */
   margin: 0;
   /* display: flex; */
   justify-content: center;
   /* align-items: center; */
-  background: linear-gradient(to right, #f2f2f2, #ffffff);
 }
 
 .container {
@@ -108,7 +111,7 @@ html {
 
 .timeline-year {
   position: absolute;
-  left: -10px;
+  left: 10px;
   top: 55px;
   font-size: 16px;
   color: grey;
