@@ -6,7 +6,7 @@
 - 🤝 Designed and implemented Mesh, a real-time social connectivity app for people moving to a new city that want to explore local places.
 - 🌐 Engineered [16 unique cloud functions](https://github.com/Stuartwastaken/Mesh_CloudFunctions/tree/main/src/controllers) in TypeScript for features like geo-based recommendations and lobby management.
 
-### [Lived Religion](https://religioninplace.org/blog/) - Software Engineer
+### [Lived Religion](https://wheresreligion.netlify.app/lib/pages/aboutPage) - Software Engineer
 - 📱 Built a [multi-platform app](https://wheresreligion.netlify.app/lib/pages/map) with search functionality (Try searching "New York" or "Goatee")
 - 🛠 Architected an iOS and Android mobile app using React Native, TypeScript, and Java-based backend with RESTful APIs
 - 💼 Delivered a viable product within 6 months that attracted over $2.4 million in venture capital
