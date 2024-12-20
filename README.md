@@ -22,9 +22,10 @@
 
 #### Technical Achievements
 - 🌊 Developing LoRa-based underwater communication system with Chirp Spread Spectrum (CSS) and Spreading Factor (SF) optimizations
+  - Reference implementation available in the [SoundController repo](https://github.com/Stuartwastaken/SoundController/tree/main/underwater/underwater)
 - 🛡️ Constructed ML-based intruder detection model achieving:
   - 97% location accuracy
   - 99% malicious intruder detection accuracy
 - ⚡ Engineered the '[Waves](https://ieeexplore.ieee.org/document/10106093/authors#authors)' network protocol stack in C++
   - Achieved 29x reduction in packet delivery latency through novel network layer optimizations
-  - Reference implementation available in the [SoundController repo](https://github.com/Stuartwastaken/SoundController/tree/main/underwater/underwater)
+
