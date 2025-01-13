@@ -7,7 +7,7 @@
 - 🌐 Engineered [16 unique cloud functions](https://github.com/Stuartwastaken/Mesh_CloudFunctions/tree/main/src/controllers) in TypeScript for features like geo-based recommendations and algorithms for pairing 4 people together out of hundreds available. Optimally pairing 4 people together in person at local coffee shops. 
 
 ### [Lived Religion](https://wheresreligion.netlify.app/lib/pages/aboutPage) - Software Engineer
-- 📱 Built a [multi-platform app](https://wheresreligion.netlify.app/lib/pages/map) with search functionality (Try searching "New York" or "Goatee")
+- 📱 Built a [multi-platform app](https://wheresreligion.netlify.app/lib/pages/map) with search functionality
 - 🛠 Architected an iOS and Android mobile app using React Native, TypeScript, and Java-based backend with RESTful APIs
 - 💼 Delivered a viable product within 6 months that attracted over $2.4 million in venture capital
 - 🔨 Led full-stack development as Solutions Architect, [contributing significantly](https://github.com/oss-slu/lrda_website/graphs/contributors) to the website completion within 8 months
