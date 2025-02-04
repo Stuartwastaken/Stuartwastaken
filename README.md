@@ -3,8 +3,8 @@
 # 🛠 Experience
 
 ### <a href="https://apps.apple.com/us/app/mesh-four-people-together/id6446823257">Mesh</a> - Co-Founder, CEO
-- 🤝 Designed and implemented Mesh, a real-time social connectivity app for people moving to a new city that want to explore local places.
-- 🌐 Engineered [16 unique cloud functions](https://github.com/Stuartwastaken/Mesh_CloudFunctions/tree/main/src/controllers) in TypeScript for features like geo-based recommendations and algorithms for pairing 4 people together out of hundreds available. Optimally pairing 4 people together in person at local coffee shops. 
+- 🤝 Designed and implemented Mesh, (2800 users), a real-time social connectivity app for people moving to a new city that want to establish a community.
+- 🌐 Engineered [70+ unique cloud functions many found here](https://github.com/Stuartwastaken/Mesh_CloudFunctions/tree/main/src/controllers) in TypeScript for features like geo-based recommendations and algorithms for optimally pairing 4 people together in person at local coffee shops.
 
 ### [Lived Religion](https://wheresreligion.netlify.app/lib/pages/aboutPage) - Software Engineer
 - 📱 Built a [multi-platform app](https://wheresreligion.netlify.app/lib/pages/map) with search functionality
