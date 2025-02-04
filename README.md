@@ -19,6 +19,18 @@
 - 📑 IEEE/ACM Transactions on Networking '23:
   - "Waves: Enabling Cross-Technology Communication for Heterogeneous IoT Devices"
   - "IoT Sentinel: Correlation-based Attack Detection, Localization, and Authentication in IoT Networks"
+  - ⚡ Engineered the '[Waves](https://ieeexplore.ieee.org/document/10106093/authors#authors)' network protocol stack in C++
+  - Achieved 29x reduction in packet delivery latency through novel network layer optimizations
+
+#### Fun Solar System Project:
+
+# Solar System Visualization Project
+
+This is an interactive 3D physics simulation of our solar system. Features gravitational field visualization, and Lagrange Points between Earth and Mars, working on visualizing Hohmann transfer orbits
+
+[Repo](https://github.com/Stuartwastaken/solar-system)
+
+[Demo Website](https://vite-react-two-tau-50.vercel.app/)
 
 #### Technical Achievements
 - 🌊 Developing LoRa-based underwater communication system with Chirp Spread Spectrum (CSS) and Spreading Factor (SF) optimizations
@@ -26,6 +38,5 @@
 - 🛡️ Constructed ML-based intruder detection model achieving:
   - 97% location accuracy
   - 99% malicious intruder detection accuracy
-- ⚡ Engineered the '[Waves](https://ieeexplore.ieee.org/document/10106093/authors#authors)' network protocol stack in C++
-  - Achieved 29x reduction in packet delivery latency through novel network layer optimizations
+
 
