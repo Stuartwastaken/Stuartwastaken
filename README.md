@@ -23,9 +23,6 @@
   - Achieved 29x reduction in packet delivery latency through novel network layer optimizations
 
 #### Fun Solar System Project:
-
-# Solar System Visualization Project
-
 This is an interactive 3D physics simulation of our solar system. Features gravitational field visualization, and Lagrange Points between Earth and Mars, working on visualizing Hohmann transfer orbits
 
 [Repo](https://github.com/Stuartwastaken/solar-system)
