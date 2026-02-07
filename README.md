@@ -6,6 +6,17 @@
 - 🤝 Designed and implemented Mesh, (2800 users), a real-time social connectivity app for people moving to a new city that want to establish a community.
 - 🌐 Engineered [70+ unique cloud functions many found here](https://github.com/Stuartwastaken/Mesh_CloudFunctions/tree/main/src/controllers) in TypeScript for features like geo-based recommendations and algorithms for optimally pairing 4 people together in person at local coffee shops.
 
+- #### Starlink Constellation Visualizer — C++ & WebGL
+
+A C++17 engine that simulates 9,636 Starlink satellites across 5 orbital shells using Keplerian mechanics, then visualizes the full constellation, packet routing, and satellite handoff scheduling in the browser.
+
+[Repo](https://github.com/Stuartwastaken/satellite-visibility) · [Live Demo](https://satellite-visibility.vercel.app/)
+
+- 🛰️ Walker Delta constellation generation with proper RAAN, argument of latitude, and inter-satellite laser link topology
+- 📡 O(n²) dynamic programming handoff scheduler achieving 100% coverage with make-before-break transitions
+- 🌐 Three.js 3D globe with NASA Earth textures rendering ~20,000 objects at 60fps
+
+
 ### [Lived Religion](https://wheresreligion.netlify.app/lib/pages/aboutPage) - Software Engineer
 - 📱 Built a [multi-platform app](https://wheresreligion.netlify.app/lib/pages/map) with search functionality
 - 🛠 Architected an iOS and Android mobile app using React Native, TypeScript, and Java-based backend with RESTful APIs
@@ -22,6 +33,7 @@
   - ⚡ Engineered the '[Waves](https://ieeexplore.ieee.org/document/10106093/authors#authors)' network protocol stack in C++
   - Achieved 29x reduction in packet delivery latency through novel network layer optimizations
 
+
 #### Fun Solar System Project:
 This is an interactive 3D physics simulation of our solar system. Features gravitational field visualization, and Lagrange Points between Earth and Mars, working on visualizing Hohmann transfer orbits
 
@@ -35,5 +47,3 @@ This is an interactive 3D physics simulation of our solar system. Features gravi
 - 🛡️ Constructed ML-based intruder detection model achieving:
   - 97% location accuracy
   - 99% malicious intruder detection accuracy
-
-
