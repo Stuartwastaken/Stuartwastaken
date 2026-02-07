@@ -3,7 +3,7 @@
 # 🛠 Experience
 
 ### <a href="https://apps.apple.com/us/app/mesh-four-people-together/id6446823257">Mesh</a> - Co-Founder, CEO
-- 🤝 Designed and implemented Mesh, (2800 users), a real-time social connectivity app for people moving to a new city who want to establish a community.
+- 🤝 Designed and implemented Mesh, (12,000 users), a real-time social connectivity app for people moving to a new city who want to establish a community.
 - 🌐 Engineered 250+ unique cloud functions in TypeScript for features like geo-based recommendations and ai algorithms for optimally pairing 4 people together in person at local coffee shops.
 
 
@@ -21,7 +21,7 @@ A C++17 engine that simulates 9,636 Starlink satellites across 5 orbital shells 
 ### [Lived Religion](https://wheresreligion.netlify.app/lib/pages/aboutPage) - Software Engineer
 - 📱 Built a [multi-platform app](https://wheresreligion.netlify.app/lib/pages/map) with search functionality
 - 🛠 Architected an iOS and Android mobile app using React Native, TypeScript, and Java-based backend with RESTful APIs
-- 💼 Delivered a viable product within 6 months that attracted over $2.4 million in venture capital
+- 💼 Delivered a viable product within 6 months that attracted over $2+ million in venture capital
 - 🔨 Led full-stack development as Solutions Architect, [contributing significantly](https://github.com/oss-slu/lrda_website/graphs/contributors) to the website completion within 8 months
 
 ### Research at Saint Louis University
