@@ -2,7 +2,7 @@
 
 # 🛠 Experience
 
-### <a href="https://apps.apple.com/us/app/mesh-four-people-together/id6446823257">Mesh</a> - Co-Founder, CEO
+### <a href="https://mesh-local.com">Mesh</a> - Co-Founder, CEO
 - 🤝 Designed and implemented Mesh, (12,000 users), a real-time social connectivity app for people moving to a new city who want to establish a community.
 - 🌐 Engineered 250+ unique cloud functions in TypeScript for features like geo-based recommendations and ai algorithms for optimally pairing 4 people together in person at local coffee shops.
 
