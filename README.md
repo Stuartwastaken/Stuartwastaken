@@ -6,7 +6,8 @@
 - 🤝 Designed and implemented Mesh, (2800 users), a real-time social connectivity app for people moving to a new city that want to establish a community.
 - 🌐 Engineered [70+ unique cloud functions many found here](https://github.com/Stuartwastaken/Mesh_CloudFunctions/tree/main/src/controllers) in TypeScript for features like geo-based recommendations and algorithms for optimally pairing 4 people together in person at local coffee shops.
 
-- #### Starlink Constellation Visualizer — C++ & WebGL
+
+#### Starlink Constellation Visualizer — C++ & WebGL
 
 A C++17 engine that simulates 9,636 Starlink satellites across 5 orbital shells using Keplerian mechanics, then visualizes the full constellation, packet routing, and satellite handoff scheduling in the browser.
 
