@@ -1,50 +1,52 @@
-## You can visit my <a href="https://www.stuartmray.com/">website</a>
+# Stuart Ray
 
-# 🛠 Experience
+Software engineer and networking researcher focused on high-performance systems, communications infrastructure, and applied security.
 
-### <a href="https://mesh-local.com">Mesh</a> - Co-Founder, CEO
-- 🤝 Designed and implemented Mesh, (12,000 users), a real-time social connectivity app for people moving to a new city who want to establish a community.
-- 🌐 Engineered 250+ unique cloud functions in TypeScript for features like geo-based recommendations and ai algorithms for optimally pairing 4 people together in person at local coffee shops.
+[Website](https://www.stuartmray.com/)
 
+## Experience
 
-#### Starlink Constellation Visualizer — C++ & WebGL
+### Mastercard — Software Engineer, Network Gateway
 
-A C++17 engine that simulates 9,636 Starlink satellites across 5 orbital shells using Keplerian mechanics, then visualizes the full constellation, packet routing, and satellite handoff scheduling in the browser.
+- Led development of a Go-based ISO 8583 performance and regression test system sustaining 2,000 transactions per second.
+- Replaced vendor tooling and reduced annual software cost by $1.2 million.
+- Conducting research in network security and performance testing.
 
-[Repo](https://github.com/Stuartwastaken/satellite-visibility) · [Live Demo](https://satellite-visibility.vercel.app/)
+### Mesh — Co-Founder and CEO
 
-- 🛰️ Walker Delta constellation generation with proper RAAN, argument of latitude, and inter-satellite laser link topology
-- 📡 O(n²) dynamic programming handoff scheduler achieving 100% coverage with make-before-break transitions
-- 🌐 Three.js 3D globe with NASA Earth textures rendering ~20,000 objects at 60fps
+- Designed and built a real-time social connectivity platform used by 12,000 people.
+- Implemented more than 250 TypeScript cloud functions for location-aware discovery, recommendations, and small-group matching.
 
+### Saint Louis University — Network Systems Research
 
-### [Lived Religion](https://wheresreligion.netlify.app/lib/pages/aboutPage) - Software Engineer
-- 📱 Built a [multi-platform app](https://wheresreligion.netlify.app/lib/pages/map) with search functionality
-- 🛠 Architected an iOS and Android mobile app using React Native, TypeScript, and Java-based backend with RESTful APIs
-- 💼 Delivered a viable product within 6 months that attracted over $2+ million in venture capital
-- 🔨 Led full-stack development as Solutions Architect, [contributing significantly](https://github.com/oss-slu/lrda_website/graphs/contributors) to the website completion within 8 months
+- Co-authored peer-reviewed work in cross-technology communication, wireless networking, and IoT security.
+- Developed C++ systems for WiFi-to-ZigBee communication, protocol evaluation, and network-layer performance.
 
-### Research at Saint Louis University
+## Selected Engineering
 
-#### Publications
-- 📑 AsiaCCS '24: "Key Establishment for Secure Asymmetric Cross-Technology Communication"
-- 📑 IEEE/ACM Transactions on Networking '23:
-  - "Waves: Enabling Cross-Technology Communication for Heterogeneous IoT Devices"
-  - "IoT Sentinel: Correlation-based Attack Detection, Localization, and Authentication in IoT Networks"
-  - ⚡ Engineered the '[Waves](https://ieeexplore.ieee.org/document/10106093/authors#authors)' network protocol stack in C++
-  - Achieved 29x reduction in packet delivery latency through novel network layer optimizations
+### [Starlink Constellation Visualizer](https://github.com/Stuartwastaken/satellite-visibility)
 
+[Live demo](https://satellite-visibility.vercel.app/)
 
-#### Fun Solar System Project:
-This is an interactive 3D physics simulation of our solar system. Features gravitational field visualization, and Lagrange Points between Earth and Mars, working on visualizing Hohmann transfer orbits
+A C++17 simulation of orbital mechanics, packet routing, and satellite handoff scheduling for a 9,636-satellite constellation.
 
-[Repo](https://github.com/Stuartwastaken/solar-system)
+- Generates a Walker Delta constellation across five orbital shells.
+- Models visibility, propagation latency, packet reordering, and priority routing.
+- Uses an O(n²) dynamic-programming scheduler to produce continuous simulated coverage with make-before-break handoffs.
+- Renders the constellation and network state in Three.js.
 
-[Demo Website](https://vite-react-two-tau-50.vercel.app/)
+### [Solar System Simulator](https://github.com/Stuartwastaken/solar-system)
 
-#### Technical Achievements
-- 🌊 Developing LoRa-based underwater communication system with Chirp Spread Spectrum (CSS) and Spreading Factor (SF) optimizations
-  - Reference implementation available in the [SoundController repo](https://github.com/Stuartwastaken/SoundController/tree/main/underwater/underwater)
-- 🛡️ Constructed ML-based intruder detection model achieving:
-  - 97% location accuracy
-  - 99% malicious intruder detection accuracy
+[Live demo](https://vite-react-two-tau-50.vercel.app/)
+
+An interactive orbital-physics visualization exploring gravitational fields, Lagrange points, and transfer trajectories.
+
+## Publications
+
+- [Key Establishment for Secure Asymmetric Cross-Technology Communication](https://dl.acm.org/doi/10.1145/3634737.3637670) — ACM AsiaCCS, 2024
+- [IoT Sentinel: Correlation-based Attack Detection, Localization, and Authentication in IoT Networks](https://ieeexplore.ieee.org/document/10230209) — IEEE ICCCN, 2023
+- [Simultaneous Data Dissemination Among WiFi and ZigBee Devices](https://doi.org/10.1109/TNET.2023.3243070) — IEEE/ACM Transactions on Networking, 2023
+
+## Education
+
+B.S. in Computer Science, Saint Louis University
