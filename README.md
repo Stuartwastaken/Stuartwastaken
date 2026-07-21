@@ -12,9 +12,9 @@ Software engineer and networking researcher focused on high-performance systems,
 - Replaced vendor tooling and reduced annual software cost by $1.2 million.
 - Conducting research in network security and performance testing.
 
-### Mesh — Co-Founder and CEO
+### [Mesh](https://mesh-local.com) — Co-Founder and CEO
 
-- Designed and built a real-time social connectivity platform used by 12,000 people.
+- Designed and built a real-time social connectivity platform used by 15,000 people.
 - Implemented more than 250 TypeScript cloud functions for location-aware discovery, recommendations, and small-group matching.
 
 ### Saint Louis University — Network Systems Research
@@ -22,7 +22,7 @@ Software engineer and networking researcher focused on high-performance systems,
 - Co-authored peer-reviewed work in cross-technology communication, wireless networking, and IoT security.
 - Developed C++ systems for WiFi-to-ZigBee communication, protocol evaluation, and network-layer performance.
 
-## Selected Engineering
+## Projects
 
 ### [Starlink Constellation Visualizer](https://github.com/Stuartwastaken/satellite-visibility)
 
